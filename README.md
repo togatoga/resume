@@ -6,7 +6,7 @@
 
 ### EDUCATION
 - 2010.4 – 2014.3: B.E Waseda University
-  - Mathmatics
+  - Mathematics
 - 2014.4 - 2016.9: M.S. University of Tokyo
   - Information Science and Technology
   - Research

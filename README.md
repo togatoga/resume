@@ -77,7 +77,7 @@ Development and maintain many small web services.
 
 Sep. 2015 - Sep. 2015
 
-Inspect Texas university and some companys(IBM,Indeed)
+Inspect Texas university and some companies(IBM,Indeed)
 
 ## Projects
 - para_minisat:

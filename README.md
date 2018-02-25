@@ -20,7 +20,7 @@
   - Conversational Level
   - TOEIC score: 835
 
-### Programing Languages
+### Programming Languages
 - C++
     - Usage:
       - Research(SAT Solver)
@@ -42,13 +42,13 @@
 
 ### Knowledge about SAT Solver
 My research was the acceleration and parallelization of SAT Solver.
-I have good knowledge about SAT Solver algorithm and implementaion.  
+I have good knowledge about SAT Solver algorithm and implementation.  
 I parallelized minisat(https://github.com/niklasso/minisat) by Message Passing Interface and also reimplemented minisat for the competitive programming.  
 I listed my SAT Solver codes in Projects, you can see it.
 
 ### Competitive Programming
 I love studying algorithm and competitive programming,so I regularly participate in contests, TopCoder, AtCoder, Codeforces.  
-My handle names are **togatogah**, **togatoga**. I'm a yellow coder at TopCoder,have intermediate knowlege about algorithms(math,graph,sort,string,dynamic programming).  
+My handle names are **togatogah**, **togatoga**. I'm a yellow coder at TopCoder,have intermediate knowledge about algorithms(math,graph,sort,string,dynamic programming).  
 I also have interests about the Game AI, I achieved good results in some Game AI contests(CodeVS5.0,Hypersonic).
 
 #### Competitive Programming Rating
@@ -107,5 +107,5 @@ Inspect Texas university and some companies(IBM,Indeed)
     - Beam search algorithm and heuristic
     - [https://github.com/togatoga/codevs5.0](https://github.com/togatoga/codevs5.0)
 2. CodingGame Hypersonic 2016: **Rank 47/2715**
-    - Beam search algorithm and heuristice and some tricks for the acceleration
+    - Beam search algorithm and heuristic and some tricks for the acceleration
     - [https://github.com/togatoga/Hypersonic](https://github.com/togatoga/Hypersonic)

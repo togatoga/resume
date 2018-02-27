@@ -43,7 +43,7 @@
 ### Knowledge about SAT Solver
 My research was the acceleration and parallelization of SAT Solver.
 I have good knowledge about SAT Solver algorithm and implementation.  
-I parallelized minisat(https://github.com/niklasso/minisat) by Message Passing Interface and also reimplemented minisat for the competitive programming.  
+I parallelized minisat(https://github.com/niklasso/minisat) by Message Passing Interface and also re-implemented minisat for the competitive programming.  
 I listed my SAT Solver codes in Projects, you can see it.
 
 ### Competitive Programming
@@ -73,7 +73,7 @@ Oct. 2016 ~
 
 Development and maintain many small web services.
 
-#### Indeed (Summer Intership, Austin/Texas)
+#### Indeed (Summer Internship, Austin/Texas)
 
 Sep. 2015 - Sep. 2015
 
@@ -85,14 +85,14 @@ Inspect Texas university and some companies(IBM,Indeed)
   - Can work between machines.
   - [https://bitbucket.org/togatoga/para_minisat/overview](https://bitbucket.org/togatoga/para_minisat/overview)
 - togasat:
-  - Reimplement minisat for the competitive programming
+  - Re-implement minisat for the competitive programming
   - Easy to compile and use.
   - [https://github.com/togatoga/togasat](https://github.com/togatoga/togasat)
 - competitive-lib
   - Algorithm Library
   - [https://github.com/togatoga/competitive-lib](https://github.com/togatoga/competitive-lib)
 - goforces:
-  - API clinet library for Codeforces
+  - API client library for Codeforces
   - [https://github.com/togatoga/goforces](https://github.com/togatoga/goforces)
 - 2048AI
   - Implement Monte-Carlo Tree Search for 2048
@@ -106,6 +106,6 @@ Inspect Texas university and some companies(IBM,Indeed)
     - Only top 8th Player are invited to the final round
     - Beam search algorithm and heuristic
     - [https://github.com/togatoga/codevs5.0](https://github.com/togatoga/codevs5.0)
-2. CodingGame Hypersonic 2016: **Rank 47/2715**
+2. CodinGame Hypersonic 2016: **Rank 47/2715**
     - Beam search algorithm and heuristic and some tricks for the acceleration
     - [https://github.com/togatoga/Hypersonic](https://github.com/togatoga/Hypersonic)

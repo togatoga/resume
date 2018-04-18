@@ -69,9 +69,9 @@ I also have interests about the Game AI, I achieved good results in some Game AI
 
 #### Rakuten Company (Application Engineer, Tokyo/Japan)
 
-Oct. 2016 ~
+Oct. 2016 ~ Apr. 2018
 
-Development and maintain many small web services.
+Develop and maintain many small web services.
 
 #### Indeed (Summer Internship, Austin/Texas)
 

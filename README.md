@@ -1,6 +1,5 @@
 # Hitoshi Togasaki
 - Live: Tokyo, Japan
-- Birth: 1990/11/11
 - Email: togasakitogatoga@gmail.com
 - GitHub: [https://github.com/togatoga](https://github.com/togatoga)
 
@@ -18,7 +17,7 @@
   - Native level
 - English
   - Conversational Level
-  - TOEIC score: 835
+  - TOEIC score: 840
 
 ### Programming Languages
 - C++
@@ -67,8 +66,10 @@ I also have interests about the Game AI, I achieved good results in some Game AI
 
 ## Work History
 
-#### Rakuten Company (Application Engineer, Tokyo/Japan)
+#### Sound Hound inc (Software Engineer, Tokyo/Japan)
+May. 2018 ~ 
 
+#### Rakuten Company (Application Engineer, Tokyo/Japan)
 Oct. 2016 ~ Apr. 2018
 
 Develop and maintain many small web services.

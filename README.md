@@ -110,3 +110,7 @@ Inspect Texas university and some companies(IBM,Indeed)
 2. CodinGame Hypersonic 2016: **Rank 47/2715**
     - Beam search algorithm and heuristic and some tricks for the acceleration
     - [https://github.com/togatoga/Hypersonic](https://github.com/togatoga/Hypersonic)
+3. CODE VS Reborn 2019: **Adbance to the final round**
+    - A Game AI sovler is written in Rust
+	- Beam search algorithm
+    - [https://github.com/togatoga/codevs_reborn](https://github.com/togatoga/codevs_reborn)

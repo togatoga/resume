@@ -17,7 +17,7 @@
   - Native level
 - English
   - Conversational Level
-  - TOEIC score: 870
+  - TOEIC score: 920
 
 ### Programming Languages
 - C++

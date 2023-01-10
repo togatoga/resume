@@ -1,6 +1,6 @@
 # Hitoshi Togasaki
 - Live: Tokyo, Japan
-- Email: togasakitogatoga@gmail.com
+- Email: hitoshitogasaki@gmail.com
 - GitHub: [https://github.com/togatoga](https://github.com/togatoga)
 
 ### EDUCATION
